@@ -4,8 +4,6 @@
 
 0A. Create a class named **runner**. This will be where your main method resides for you to test the following exercises.
 
-0B. Create a class named **questions** were you will make all your methods for the following questions.
-
 1. Create a public static method called **ascending** that takes in an `array` and that returns an `array`. Return the
    `array` that was made in ascending order.
 
